@@ -1,4 +1,5 @@
 positive/PublicApiPositive.class
+baseUtils/RunningConditions.class
 steps/NavigatingUser.class
 baseUtils/BaseRequests.class
 baseUtils/Requests.class

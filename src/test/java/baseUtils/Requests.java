@@ -10,5 +10,6 @@ public class Requests {
 
     private static String HOST = toml.getString("main.api_base_url");
 
-    public static final String REQUEST_TO_GET_TRADE_PAIRS = HOST + "/v1/public/get-trade-pairs";
+    public static final String REQUEST_TO_GET_CASE = HOST + "index.php?/api/v2/get_case/";
+
 }
